@@ -1,0 +1,354 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "_id": "655cd54f97877e1effe73e63",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "ar-sa": "زهور",
+                "en-us": "flowers"
+            },
+            "description": {
+                "ar-sa": "زهور",
+                "en-us": "flowers"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-_16hwy-icons8-plant-64.ico",
+            "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-_ApF6I-icons8-plant-64.ico",
+            "seo": {
+                "page_title": "flowers",
+                "page_description": "flowers",
+                "page_url": "flowers"
+            },
+            "is_visible": true,
+            "created_at": "2023-11-21T16:05:35.890Z",
+            "updated_at": "2023-11-21T16:06:02.536Z",
+            "__v": 0,
+            "sub_categories": [
+                {
+                    "_id": "6568db078436fc0db1a6a228",
+                    "store_id": "655ccfde97877e1effe73d52",
+                    "name": {
+                        "ar-sa": "sub cat",
+                        "en-us": "sub cat"
+                    },
+                    "description": {
+                        "ar-sa": "sub cat",
+                        "en-us": "sub cat"
+                    },
+                    "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-UnNKrW-photo_5994643321869418396_x.jpg",
+                    "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-6Kg2ce-photo_5994643321869418396_x.jpg",
+                    "parent_category": "655cd54f97877e1effe73e63",
+                    "seo": {
+                        "page_title": "sub-cat",
+                        "page_description": "sub cat",
+                        "page_url": "sub-cat"
+                    },
+                    "is_visible": true,
+                    "created_at": "2023-11-30T18:57:11.322Z",
+                    "updated_at": "2023-11-30T18:57:11.322Z",
+                    "__v": 0,
+                    "sub_categories": [
+                        {
+                            "_id": "662ce9f13b097bfebdbe3c82",
+                            "store_id": "655ccfde97877e1effe73d52",
+                            "name": {
+                                "en-us": "seada 11",
+                                "ar-sa": "سعده 11"
+                            },
+                            "description": {
+                                "en-us": "a category for eid 12",
+                                "ar-sa": "هذة  التصنيفه للعيد فقط 12"
+                            },
+                            "image": "https://www.powerplanetonline.com/cdnassets/chuwi_herobook_plus_intel_j4125_16gb_ram_256gb_ssd_portatil_15_6_01_l.jpg",
+                            "parent_category": "6568db078436fc0db1a6a228",
+                            "seo": {
+                                "page_title": "seada category",
+                                "page_description": "seada cat for eid",
+                                "page_url": "/page/url"
+                            },
+                            "is_visible": true,
+                            "created_at": "2024-04-27T12:05:05.035Z",
+                            "updated_at": "2024-04-27T12:05:05.035Z",
+                            "__v": 0,
+                            "sub_categories": []
+                        },
+                        {
+                            "_id": "662ceb533b097bfebdbe3c87",
+                            "store_id": "655ccfde97877e1effe73d52",
+                            "name": {
+                                "en-us": "sub sub flowers 11",
+                                "ar-sa": "`sub sub flower"
+                            },
+                            "description": {
+                                "en-us": "sub sub flower",
+                                "ar-sa": "sub sub flower"
+                            },
+                            "image": "https://www.powerplanetonline.com/cdnassets/chuwi_herobook_plus_intel_j4125_16gb_ram_256gb_ssd_portatil_15_6_01_l.jpg",
+                            "parent_category": "6568db078436fc0db1a6a228",
+                            "seo": {
+                                "page_title": "sub sub flowers category",
+                                "page_description": "sub sub flowers cat for eid",
+                                "page_url": "/page/url"
+                            },
+                            "is_visible": true,
+                            "created_at": "2024-04-27T12:10:59.613Z",
+                            "updated_at": "2024-04-27T12:10:59.613Z",
+                            "__v": 0,
+                            "sub_categories": [
+                                {
+                                    "_id": "662e94f0b3245bcbd0ecb1de",
+                                    "store_id": "655ccfde97877e1effe73d52",
+                                    "name": {
+                                        "en-us": "test sub sub flowers 11",
+                                        "ar-sa": "test sub sub flower"
+                                    },
+                                    "description": {
+                                        "en-us": "sub sub flower",
+                                        "ar-sa": "sub sub flower"
+                                    },
+                                    "image": "https://www.powerplanetonline.com/cdnassets/chuwi_herobook_plus_intel_j4125_16gb_ram_256gb_ssd_portatil_15_6_01_l.jpg",
+                                    "parent_category": "662ceb533b097bfebdbe3c87",
+                                    "seo": {
+                                        "page_title": "sub sub flowers category",
+                                        "page_description": "sub sub flowers cat for eid",
+                                        "page_url": "/page/url"
+                                    },
+                                    "is_visible": true,
+                                    "created_at": "2024-04-28T18:26:56.150Z",
+                                    "updated_at": "2024-04-28T18:26:56.150Z",
+                                    "__v": 0,
+                                    "sub_categories": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "65744ebb6f033ad63e28609b",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "ar-sa": "إلكترونيات",
+                "en-us": "Electronics 2"
+            },
+            "description": {
+                "ar-sa": "فيه هذه المنتجات ستجد كل ما هو مفيد يخص الالكترونيات للقيام بمشروعك العظيم و عملك القدير",
+                "en-us": "In these products you will find everything useful related to electronics to carry out your great project and your great work"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e--Cuhzk-Screenshot 2023-04-20 052354.png",
+            "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-7Q0-aE-download.jpeg",
+            "parent_category": null,
+            "seo": {
+                "page_title": "electronics 2",
+                "page_description": "In these products you will find everything useful related to electronics to carry out your great project and your great work",
+                "page_url": "electronics 2"
+            },
+            "is_visible": true,
+            "created_at": "2023-12-09T11:25:47.804Z",
+            "updated_at": "2023-12-09T11:26:23.154Z",
+            "__v": 0,
+            "sub_categories": [
+                {
+                    "_id": "65744f676f033ad63e2860d3",
+                    "store_id": "655ccfde97877e1effe73d52",
+                    "name": {
+                        "ar-sa": "1",
+                        "en-us": "2"
+                    },
+                    "description": {
+                        "ar-sa": "اهلا اهلا اهلا رمضان",
+                        "en-us": "2"
+                    },
+                    "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-QIsNso-Screenshot 2023-06-28 031242.png",
+                    "cover": "",
+                    "parent_category": "65744ebb6f033ad63e28609b",
+                    "seo": {
+                        "page_title": "؟",
+                        "page_description": "1",
+                        "page_url": "؟"
+                    },
+                    "is_visible": true,
+                    "created_at": "2023-12-09T11:28:39.127Z",
+                    "updated_at": "2023-12-09T11:28:39.127Z",
+                    "__v": 0,
+                    "sub_categories": []
+                },
+                {
+                    "_id": "65744f826f033ad63e2860da",
+                    "store_id": "655ccfde97877e1effe73d52",
+                    "name": {
+                        "ar-sa": "1",
+                        "en-us": "1"
+                    },
+                    "description": {
+                        "en-us": "1",
+                        "ar-sa": "1"
+                    },
+                    "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-xgbxVh-Screenshot 2023-04-13 050555.png",
+                    "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-7hDUQd-Screenshot 2023-04-13 050555.png",
+                    "parent_category": "65744ebb6f033ad63e28609b",
+                    "seo": {
+                        "page_title": "1",
+                        "page_description": "1",
+                        "page_url": "1"
+                    },
+                    "is_visible": true,
+                    "created_at": "2023-12-09T11:29:06.721Z",
+                    "updated_at": "2023-12-09T11:30:09.552Z",
+                    "__v": 0,
+                    "sub_categories": []
+                },
+                {
+                    "_id": "65745b4a6f033ad63e286169",
+                    "store_id": "655ccfde97877e1effe73d52",
+                    "name": {
+                        "ar-sa": "3",
+                        "en-us": "3"
+                    },
+                    "description": {
+                        "ar-sa": "3",
+                        "en-us": "3"
+                    },
+                    "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-aZrd9v-Screenshot 2023-04-13 050555.png",
+                    "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-wUeQ4l-Screenshot 2023-04-13 050555.png",
+                    "parent_category": "65744ebb6f033ad63e28609b",
+                    "seo": {
+                        "page_title": "3",
+                        "page_description": "3",
+                        "page_url": "3"
+                    },
+                    "is_visible": true,
+                    "created_at": "2023-12-09T12:19:22.990Z",
+                    "updated_at": "2023-12-09T12:19:22.990Z",
+                    "__v": 0,
+                    "sub_categories": []
+                },
+                {
+                    "_id": "65745b626f033ad63e286170",
+                    "store_id": "655ccfde97877e1effe73d52",
+                    "name": {
+                        "en-us": "4",
+                        "ar-sa": "4"
+                    },
+                    "description": {
+                        "en-us": "4",
+                        "ar-sa": "4"
+                    },
+                    "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-xNAcQm-Screenshot 2023-04-13 050555.png",
+                    "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-o77aIT-Screenshot 2023-04-13 050555.png",
+                    "parent_category": "65744ebb6f033ad63e28609b",
+                    "seo": {
+                        "page_title": "4",
+                        "page_description": "4",
+                        "page_url": "4"
+                    },
+                    "is_visible": true,
+                    "created_at": "2023-12-09T12:19:46.018Z",
+                    "updated_at": "2023-12-09T12:19:46.018Z",
+                    "__v": 0,
+                    "sub_categories": []
+                }
+            ]
+        },
+        {
+            "_id": "65745b986f033ad63e28618a",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "ar-sa": "y",
+                "en-us": "y"
+            },
+            "description": {
+                "ar-sa": "y",
+                "en-us": "y"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-N9xXqK-Screenshot 2023-04-20 052451.png",
+            "cover": "",
+            "seo": {
+                "page_title": "y",
+                "page_description": "y",
+                "page_url": "y"
+            },
+            "is_visible": true,
+            "created_at": "2023-12-09T12:20:40.280Z",
+            "updated_at": "2023-12-09T12:21:08.888Z",
+            "__v": 0,
+            "sub_categories": []
+        },
+        {
+            "_id": "65745bcc6f033ad63e2861a6",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "en-us": "ZZ",
+                "ar-sa": "Z"
+            },
+            "description": {
+                "en-us": "Z",
+                "ar-sa": "Z"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-Sqym4m-Screenshot 2023-04-13 050555.png",
+            "cover": "",
+            "parent_category": null,
+            "seo": {
+                "page_title": "Z",
+                "page_description": "Z",
+                "page_url": "Z"
+            },
+            "is_visible": true,
+            "created_at": "2023-12-09T12:21:32.483Z",
+            "updated_at": "2023-12-09T12:21:57.285Z",
+            "__v": 0,
+            "sub_categories": []
+        },
+        {
+            "_id": "65745c056f033ad63e2861f1",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "ar-sa": "A",
+                "en-us": "A"
+            },
+            "description": {
+                "ar-sa": "A",
+                "en-us": "A"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-EeE3Hx-Screenshot 2023-04-13 050555.png",
+            "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-SzwnXG-Screenshot 2023-04-13 050555.png",
+            "parent_category": null,
+            "seo": {
+                "page_title": "A",
+                "page_description": "A",
+                "page_url": "A"
+            },
+            "is_visible": true,
+            "created_at": "2023-12-09T12:22:29.310Z",
+            "updated_at": "2023-12-09T12:22:29.310Z",
+            "__v": 0,
+            "sub_categories": []
+        },
+        {
+            "_id": "65745c236f033ad63e2861f8",
+            "store_id": "655ccfde97877e1effe73d52",
+            "name": {
+                "en-us": "A",
+                "ar-sa": "A"
+            },
+            "description": {
+                "ar-sa": "A",
+                "en-us": "A"
+            },
+            "image": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e-eeoR3z-Screenshot 2023-04-13 050555.png",
+            "cover": "https://api.storesy.com/static/upload/655ccfde97877e1effe73d4e/655ccfde97877e1effe73d4e--mLWjP-Screenshot 2023-04-13 050555.png",
+            "parent_category": null,
+            "seo": {
+                "page_title": "A",
+                "page_description": "A",
+                "page_url": "A"
+            },
+            "is_visible": true,
+            "created_at": "2023-12-09T12:22:59.844Z",
+            "updated_at": "2023-12-09T12:22:59.844Z",
+            "__v": 0,
+            "sub_categories": []
+        }
+    ]
+}
